@@ -1,1 +1,6 @@
-{"releaseNotes":"Release v1.0.7.0: Revert connection string to Azure DB and fix Grand Total recalculation bug when editing Extra Charges.","mandatory":false,"version":"1.0.7.0","downloadUrl":"https://raw.githubusercontent.com/mohammedzaidsp/RaiseLeather-Releases/v1.0.7.0/RaiseLeatherSetup.exe"}
+{
+  "version": "1.0.8.0",
+  "downloadUrl": "https://github.com/mohammedzaidsp/Raiseleather/releases/download/v1.0.8.0/RaiseLeatherSetup.exe",
+  "releaseNotes": "Release v1.0.8.0: Azure SQL Database connectivity, performance enhancements, and bug fixes.",
+  "mandatory": false
+}
