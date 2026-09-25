@@ -1,6 +1,6 @@
 {
-  "version": "1.0.8.0",
-  "downloadUrl": "https://raw.githubusercontent.com/mohammedzaidsp/RaiseLeather-Releases/v1.0.8.0/RaiseLeatherSetup.exe",
-  "releaseNotes": "Release v1.0.8.0: Azure SQL Database connectivity, performance enhancements, and bug fixes.",
+  "version": "1.0.9.0",
+  "downloadUrl": "https://raw.githubusercontent.com/mohammedzaidsp/RaiseLeather-Releases/v1.0.9.0/RaiseLeatherSetup.exe",
+  "releaseNotes": "Release v1.0.9.0: Resolved multi-company login data isolation across ANL, NL, RL, and RLW divisions.",
   "mandatory": false
 }
