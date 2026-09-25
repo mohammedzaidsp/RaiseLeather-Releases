@@ -1,6 +1,6 @@
 {
   "version": "1.0.8.0",
-  "downloadUrl": "https://github.com/mohammedzaidsp/Raiseleather/releases/download/v1.0.8.0/RaiseLeatherSetup.exe",
+  "downloadUrl": "https://raw.githubusercontent.com/mohammedzaidsp/RaiseLeather-Releases/v1.0.8.0/RaiseLeatherSetup.exe",
   "releaseNotes": "Release v1.0.8.0: Azure SQL Database connectivity, performance enhancements, and bug fixes.",
   "mandatory": false
 }
