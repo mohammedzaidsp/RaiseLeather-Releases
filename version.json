@@ -1,6 +1,6 @@
 {
-  "version": "1.0.9.0",
-  "downloadUrl": "https://raw.githubusercontent.com/mohammedzaidsp/RaiseLeather-Releases/v1.0.9.0/RaiseLeatherSetup.exe",
-  "releaseNotes": "Release v1.0.9.0: Resolved multi-company login data isolation across ANL, NL, RL, and RLW divisions.",
+  "version": "1.0.9.1",
+  "downloadUrl": "https://raw.githubusercontent.com/mohammedzaidsp/RaiseLeather-Releases/v1.0.9.1/RaiseLeatherSetup.exe",
+  "releaseNotes": "Release v1.0.9.1: Multi-company database sync with full 5-brand dynamic support (Naseer Leather, Raise Leather, Raise Leather Works, Al Naseer Leathers, Noor Enterprises).",
   "mandatory": false
 }
