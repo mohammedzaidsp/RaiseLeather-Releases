@@ -1,6 +1,6 @@
 {
-  "version": "1.0.9.1",
-  "downloadUrl": "https://raw.githubusercontent.com/mohammedzaidsp/RaiseLeather-Releases/v1.0.9.1/RaiseLeatherSetup.exe",
-  "releaseNotes": "Release v1.0.9.1: Multi-company database sync with full 5-brand dynamic support (Naseer Leather, Raise Leather, Raise Leather Works, Al Naseer Leathers, Noor Enterprises).",
+  "version": "1.0.9.2",
+  "downloadUrl": "https://raw.githubusercontent.com/mohammedzaidsp/RaiseLeather-Releases/v1.0.9.2/RaiseLeatherSetup.exe",
+  "releaseNotes": "Release v1.0.9.2: Added manual 'Check for Updates' in About page, empty invoice bill print template for tax filing in Reports, and connected to Azure cloud database.",
   "mandatory": false
 }
